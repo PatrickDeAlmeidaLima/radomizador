@@ -1,4 +1,4 @@
-# Shuffle Files App
+# Randomizador
 
 ## Descrição
 
