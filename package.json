@@ -1,0 +1,15 @@
+{
+  "name": "randomizador_do_patrick",
+  "version": "1.0.0",
+  "main": "random.js",
+  "scripts": {
+    "start": "node random.js"
+  },
+  "dependencies": {
+    "node-schedule": "^2.1.1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
